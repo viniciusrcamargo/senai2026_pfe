@@ -3,7 +3,7 @@ const container = document.querySelector('#container');
 const botao = document.querySelector('.botao');
 
 
-titulo.textContent = 'Sexta feira de Carnaval!';
+titulo.textContent = 'Sexta feira de Carnaval!!!';
 
 container.style.backgroundColor = '#c56969';
 container.style.width = '94%';
